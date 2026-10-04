@@ -25,7 +25,7 @@ The current version is an actively developed prototype and is not presented as a
 ### [SENG 505 — Java Applications](https://github.com/avery-holmes/SENG505-Java-Applications)
 Curated graduate Java coursework covering collections, linked lists, stacks and queues, recursion, custom data structures, simulation, validation, and file/network I/O.
 
-### [Online Resume / Portfolio](https://github.com/avery-holmes/Capstone1-Online-Resume)
+### [Online Resume / Portfolio](https://github.com/avery-holmes/Software-Engineering-Portfolio)
 A lightweight HTML/CSS resume site documenting my engineering transition, current projects, and professional background.
 
 ### [ITP 120 — Java Fundamentals](https://github.com/avery-holmes/ITP120-Java-Fundamentals)
