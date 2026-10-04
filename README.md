@@ -7,7 +7,7 @@ I currently work in enterprise risk and governance, where I operate at the inter
 
 ## What I'm building
 
-### TCH — Technology for Caregivers in the Home
+### TCH — Technology for Caregivers at Home
 A React Native / TypeScript mobile application focused on caregiver coordination and day-to-day care tracking.
 
 Current areas of work include:
