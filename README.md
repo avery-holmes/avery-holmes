@@ -39,7 +39,7 @@ Early HTML coursework preserved as a transparent record of my web-development pr
 - **Languages:** Java, TypeScript, HTML, CSS
 - **Mobile:** React Native, Expo, Expo Router
 - **Engineering:** Git, GitHub, pull requests, CI, CodeQL
-- **Current study:** object-oriented design, data structures and algorithms, mobile application development, database design, and software architecture
+- **Current study:** object-oriented design, data structures and algorithms practice, and mobile application development\n- **Next coursework:** database design and enterprise architecture
 
 ## Background
 
